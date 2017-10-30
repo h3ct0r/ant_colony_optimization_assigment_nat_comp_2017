@@ -1,0 +1,10 @@
+{
+  "dataset":"dataset/SJC1.dat",
+  "ant_number": 90,
+  "alpha": 0.2,
+  "beta": 1.2,
+  "pheromone_evaporation": 0.10,
+  "pheromone_t0": 0.5,
+  "iterations": 100,
+  "seed": 1
+}
